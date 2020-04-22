@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangchaoyi.vip/movies/index.html</loc>
+    
+    <lastmod>2020-04-22T11:06:39.593Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yangchaoyi.vip/about/index.html</loc>
+    
+    <lastmod>2020-04-22T11:06:39.590Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yangchaoyi.vip/gallery/index.html</loc>
     
     <lastmod>2020-04-21T10:48:17.627Z</lastmod>
@@ -72,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://yangchaoyi.vip/movies/index.html</loc>
-    
-    <lastmod>2020-04-21T01:16:48.271Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yangchaoyi.vip/link/index.html</loc>
     
     <lastmod>2020-04-21T01:16:48.265Z</lastmod>
@@ -103,13 +110,6 @@
     <loc>https://yangchaoyi.vip/bangumis/index.html</loc>
     
     <lastmod>2020-04-21T01:16:48.246Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yangchaoyi.vip/about/index.html</loc>
-    
-    <lastmod>2020-04-21T01:16:48.240Z</lastmod>
     
   </url>
   
