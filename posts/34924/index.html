@@ -160,7 +160,7 @@ function commentCount(n){
   } catch (e) {
     return false
   }
-}</script><div class="vcomment" id="vcomment"></div><script src="https://cdn.jsdelivr.net/gh/cungudafa/cdn/js/Valine.min.js"></script><script>var GUEST_INFO = ['nick','mail','link'];
+}</script><div class="vcomment" id="vcomment"></div><script src="https://cdn.jsdelivr.net/gh/HCLonely/Valine@1.4.7/dist/Valine.min.js"></script><script>var GUEST_INFO = ['nick','mail','link'];
 var guest_info = 'nick,mail,link'.split(',').filter(function(item){
   return GUEST_INFO.indexOf(item) > -1
 });
@@ -169,9 +169,9 @@ guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
 window.valine = new Valine({
   el:'#vcomment',
   notify: false,
-  verify: true,
-  appId: 'qAiLG4YO0iYYS1mmIeumn3Ja-gzGzoHsz',
-  appKey: 'hzqxUCb3CoNiFmxUdqXAqX3F',
+  verify: false,
+  appId: 'MyJU2hPYwmGOX83xvElhQWR1-MdYXbMMI',
+  appKey: 'ceIoRkQFQY9lYi6NDekB5v4Y',
   placeholder: '大王，请务必正确填写您的邮箱地址，便于回复你，谢谢',
   avatar: 'monsterid',
   meta: guest_info,
