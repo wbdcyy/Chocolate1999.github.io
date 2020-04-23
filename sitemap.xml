@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yangchaoyi.vip/music/index.html</loc>
+    <loc>https://yangchaoyi.vip/talk/index.html</loc>
     
-    <lastmod>2020-04-23T02:44:34.317Z</lastmod>
+    <lastmod>2020-04-23T05:31:01.207Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yangchaoyi.vip/talk/index.html</loc>
+    <loc>https://yangchaoyi.vip/about/index.html</loc>
     
-    <lastmod>2020-04-23T02:30:02.911Z</lastmod>
+    <lastmod>2020-04-23T04:55:51.277Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yangchaoyi.vip/music/index.html</loc>
+    
+    <lastmod>2020-04-23T02:44:34.317Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://yangchaoyi.vip/movies/index.html</loc>
     
     <lastmod>2020-04-22T11:06:39.593Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yangchaoyi.vip/about/index.html</loc>
-    
-    <lastmod>2020-04-22T11:06:39.590Z</lastmod>
     
   </url>
   
