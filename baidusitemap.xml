@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yangchaoyi.vip/posts/520520/</loc>
+    <lastmod>2020-04-24</lastmod>
+  </url>  <url>
+    <loc>https://yangchaoyi.vip/posts/vue-family/</loc>
+    <lastmod>2020-04-24</lastmod>
+  </url>  <url>
     <loc>https://yangchaoyi.vip/posts/35725/</loc>
     <lastmod>2020-04-21</lastmod>
   </url>  <url>
@@ -26,9 +32,6 @@
     <lastmod>2020-04-21</lastmod>
   </url>  <url>
     <loc>https://yangchaoyi.vip/posts/tencentOne/</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>  <url>
-    <loc>https://yangchaoyi.vip/posts/vue-family/</loc>
     <lastmod>2020-04-21</lastmod>
   </url>
 </urlset>
