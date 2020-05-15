@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>腾讯云COS前端一面凉经</title>
+      <link href="/posts/2055151/"/>
+      <url>/posts/2055151/</url>
+      
+        <content type="html"><![CDATA[<ol><li>自我介绍（介绍了自己的博客）</li><li>写博客带来了最大的收获</li><li>最近写了哪些方面的博客</li><li>Vue你用在了哪些项目</li><li>你对Vue的理解</li><li>Vue中双向绑定的实现原理 </li><li>Vue响应式实现原理（分Vue2.0和Vue3.0）</li><li>Vue3.0你还了解哪些特性？有没有上手过？</li><li>Vuex了解过吗？能解决什么问题</li><li>组件通信还有哪些方式？</li><li><code>event.$on</code> 和 <code>event.$off</code> </li><li>自定义事件和 Vuex 在通信这一块有什么区别？</li><li>Vuex如何实现父子组件通信</li><li>vue-router有使用过吗？有哪几种模式</li><li>history模式是怎样实现的？</li><li>了解虚拟dom吗？和真实dom有什么区别？</li><li>diff算法匹配机制了解吗？</li><li>diff算法比对时有哪些优化？能讲述一下过程嘛</li><li>工程里面有没有使用过webpack？有没有自己修改过相关配置？</li><li>大概介绍一下webpack中配置入口，构建结果，性能优化？</li><li>你目前用的什么CDN？</li><li>写代码过程中有用过TypeScript？</li><li>有使用过ES6之类的嘛？用了哪些特性？</li><li>async 和 await 有使用过吗？解决什么问题？</li><li>await 和 promise 有什么关系？</li><li>async 和 await 如何捕获异常？</li><li>rejected出来异常 await 拿得到吗？怎么拿到内部抛出的异常？</li><li>有使用过 koa 是吧？除了这个，还有使用过其它框架嘛？这些框架做了什么事情？</li><li>nuxt.js你觉得使用有什么特点？</li><li>除了koa2，你有了解node嘛？</li><li>有没有听说过express？</li><li>使用element-ui有没有遇到什么问题？</li><li>对element-ui按需加载怎样做？引用路径有什么区别？</li><li>你写博客的频率？</li><li>有没有参加或者看过一些开源源码？</li><li>你清楚前端闭包是什么东西吗？会导致什么问题</li><li>最后两道代码题：浅拷贝和深拷贝</li><li>如何快速简单得实现深拷贝（JSON.parse(JSON.stringify(obj));）</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试整理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> 腾讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LeetCode面试题集 和你一起愉快A题 （C++）（持续更新中）</title>
       <link href="/posts/205591/"/>
       <url>/posts/205591/</url>
@@ -14,8 +41,6 @@
       <categories>
           
           <category> LeetCode </category>
-          
-          <category> 面试 </category>
           
       </categories>
       
